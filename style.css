@@ -1,0 +1,10 @@
+h1 { color:blue;
+         background-color:green;
+    padding: 10px; }
+    p { background-color: blue;
+    padding: 10px; }
+    body
+    {
+        background-color: url("image.png");
+        background-attachment: fixed;
+    }

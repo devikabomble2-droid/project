@@ -1,0 +1,47 @@
+*{
+    background-color: rgba(60,100,255,0.5);
+}
+/*element selector*/
+h1{
+    color:blue;
+    font-size: 36px;
+    text-align: center;
+}
+p{
+    background-color: yellow;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 100px;
+}
+/*class selector*/
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    font-size: 4em;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+}
+.para{
+    font-size: 50px;
+    color: white;
+    text-align: justify;
+    padding: 10px;
+}
+/*id selector*/
+#box1{
+    background-color: red;
+}
+#box2{
+    background-color: green;
+}
+#box3{
+    background-color: blue;
+}
+#box4{
+    background-color: beige;
+}
+#box5{
+    background-color: brown;
+}
